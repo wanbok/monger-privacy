@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## 개인정보취급방침
 
-You can use the [editor on GitHub](https://github.com/wanbok/monger-privacy/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+* Monger 앱은 사용자의 어떠한 개인 정보도 수집하지 않습니다.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Monger 앱에서 개인 정보 취급 사항
 
-### Markdown
+#### 전화 상태 읽기(READ_PHONE_STATE) 권한을 요청하는 이유
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+SMS의 수신여부를 판단하기 위해 해당 권한이 필요합니다.
 
-```markdown
-Syntax highlighted code block
+#### 사용자의 연락처 읽기(READ_CONTACTS) 권한을 요청하는 이유
 
-# Header 1
-## Header 2
-### Header 3
+수신된 메세지의 발송인 ‘이름’ 정보를 읽어오기 위해 필요합니다.
 
-- Bulleted
-- List
+#### 해당 정보들은 수집되거나 다른 용도로 사용되지 않습니다.
 
-1. Numbered
-2. List
+### 개인 정보의 수집 및 이용 목적
 
-**Bold** and _Italic_ and `Code` text
+모든 개인 정보는 사용자의 폰에서만 저장되며, 개인 정보를 수집하지 않습니다.
 
-[Link](url) and ![Image](src)
-```
+### 개인 정보의 보유 및 이용 기간
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+개인 정보를 이용하지 않습니다.
 
-### Jekyll Themes
+### 개인 정보 수집 방법
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wanbok/monger-privacy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+개인 정보를 공유 및 제 3자에게 제공하지 않습니다.
